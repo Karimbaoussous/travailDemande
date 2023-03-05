@@ -1,0 +1,14 @@
+#division{
+    width:200px;
+    height:200px;
+border:2px solid black;
+background-color: #9FC2BA;
+text-align: center;
+display: inline-block;
+  
+margin-top:2em;
+margin-right:2em;
+color:red;
+font-weight:1000;
+
+}
